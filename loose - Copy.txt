@@ -1,0 +1,64 @@
+Which architectural principle is illustrated in the following
+statement: "Isolate the behavior of a component from other
+components that depend on it, increasing resiliency and agility."
+loose copluing
+
+what is codepoly
+useing to production environments whether deploying to Amazon EC2, 
+AWS Fargate, AWS Lambda, or your on-premises servers.
+
+decouple applications-id sqs
+
+Amazon DynamoDB- nosql db serices and key value format also
+
+Amazon Macie is a data security and protection service that uses machine learning (ML) 
+
+static website-amazon s3 and serviceless srvice
+
+AWS WAF is a web application firewall monitor the HTTP(S) requests that helps protect to web applications
+
+AWS CloudHSM- lets you manage and access our own keys
+
+aws Elasticaches-managed in-memory caches it will suppoted to redis and memcaches
+
+Amazon EC2 Dedicated Host is a physical server fully dedicated for your use
+
+aws support plan that provides 24/7 access- Basic
+
+aws workplac -  enables customers to find, buy, and immediately start using software
+
+aws vpc- AWS networking service enables
+
+(edge locations) -- deliver content to users with lower latency, Amazon CloudFront nw
+
+enable multi-factor authentication - administrator add an additional layer of login security and password sign-in credentials
+
+AWS Acceptable Use Policy provides information regarding prohibited actions
+
+An Amazon Reserved Instance (RI) is a billing discount that allows you to save on your Amazon EC2 usage costs.upto 72%
+
+A Spot Instance is an instance that uses spare EC2 capacity that is available for less than the On-Demand price upto 90%
+
+Savings Plans is a flexible purchase option that gives you deep discounts on various AWS Compute services for a 1- or 3-year commitment.
+
+
+s3 useage
+data consistncy model of s3
+creating a bukect and data updating and creating and deleting
+
+s3 is easly access to public and private nwk
+
+s3 glacier - its secure and durable and low cast storge and data archiving
+
+standed iA- ideal long term storage ,backups aND DATA disater recovry files
+
+AWS OpsWorks -is a configuration management service that provides managed instances of Chef and Puppet
+
+AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines
+
+opswork
+codepiplines
+
+AWS Snowball-- is a petabyte-scale data transport service that uses secure devices to transfer large amounts of data 
+
+AWS cloud architecture principle states that systems should reduce interdependencies? --loose coupling
